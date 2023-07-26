@@ -1,0 +1,9 @@
+.navTabs {
+    display: flex;
+    justify-content: space-around;
+    color: black;
+}
+li {
+    list-style-type: none;
+    font-size: 25px;
+}

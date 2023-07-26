@@ -1,8 +1,10 @@
 import React from 'react';
+import './styles/NavTabs.css'
 
 export default function NavTabs({ currentPage, handlePageChange }) {
+    
   return (
-    <ul>
+    <ul className='navTabs'>
       <li>
         <a
           href="#home"
