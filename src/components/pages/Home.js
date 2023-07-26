@@ -4,6 +4,8 @@ import '../styles/Home.css';
 export default function Home() {
     return(
     <div className="home">
+        <br></br>
+        <br></br>
         <h1>Home</h1>
         <br></br>
         <br></br>
@@ -11,7 +13,7 @@ export default function Home() {
         <p>
             Welcome to my Portfolio! Use the navigation bar above and feel free to have a look around!
         </p>
-        <p>If you have any questions, feel free to reach out to me via the Contact page!</p>
+        <p>If you have any questions, feel free to reach out to me via the Contact Page!</p>
         </div>
     </div>
     );
