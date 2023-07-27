@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/Contact.css'
 
 export default function Contact() {
 
@@ -9,7 +10,7 @@ const preventDefault = () => {
 }
 
     return (
-        <div>
+        <div className='contact'>
             <h2>Contact</h2>
             <form>
                 <label for="name">Name:</label><br></br>
