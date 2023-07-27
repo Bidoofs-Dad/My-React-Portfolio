@@ -6,7 +6,7 @@ export default function AboutMe() {
     return (
         <div className="aboutMe">
             <h2>About Me!</h2>
-            <img src={Me} alt="Avatar"></img>
+            <img src={Me} alt="My wife and I... and Michael Myers in the background. Orange leaves create a border around us."></img>
             <p>
                 Hi there! Thank you first off for the interest in learning more About Me! My Name is Zane and boy howdy do I have a lot of interests. I absolutely love spending time with my wonderful wife, we enjoy long-boarding together, watching movies and just getting out into nature to travel and hike!
                 Some of my other interests are skateboarding, playing video games and doing anything that is related to art!

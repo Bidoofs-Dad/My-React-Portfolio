@@ -9,6 +9,7 @@ const App = () => {
         <div>
             <Header/>
             <PortfolioContainer />
+            <br></br>
             <Footer/>
         </div>
     );
