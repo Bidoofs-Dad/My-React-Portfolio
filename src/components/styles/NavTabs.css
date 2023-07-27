@@ -3,12 +3,12 @@
     justify-content: space-around;
     color: black;
 }
-li {
+.navTabs li {
     list-style-type: none;
     font-size: 25px;
 }
 
-a {
+.navTabs a {
     color: orange;
     text-decoration: none;
 }
